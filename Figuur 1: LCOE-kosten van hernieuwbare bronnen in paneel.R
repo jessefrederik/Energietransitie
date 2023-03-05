@@ -1,6 +1,4 @@
 library(tidyverse)
-library(googlesheets4)
-library(usethis)
 
 ## INLADEN VAN DATA UIT IPCC EN IRENA RAPPORTEN 
 ## IPCC (2022): https://ipcc-browser.ipcc-data.org/browser/dataset?id=443 
